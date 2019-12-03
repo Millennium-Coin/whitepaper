@@ -6,7 +6,7 @@ Being transparent with our community:
   - Millennium Coin initial allocation. 
   - References.
   - Design.
- - 1.2 - 2019/12/03
+- 1.2 - 2019/12/03
   - Rebranding
   - Minor bugs corrected 
   
