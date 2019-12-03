@@ -6,21 +6,22 @@ Being transparent with our community:
   - Millennium Coin initial allocation. 
   - References.
   - Design.
+ - 1.2 - 2019/12/03
+  - Rebranding
+  - Minor bugs corrected 
   
 ## Websites
-* [Millennium Coin](https://millenniumcoin.net)
-* [iMira](https://imira.net) 
+* [NXN](https://noixion.io)
+* [Noixion TV](https://noixion.tv) 
 
 
 ## Follow us on our social networks
-* [Millennium Coin Twitter](https://twitter.com/CoinMillennium/) 
-* [iMira Twitter](https://twitter.com/iMiraPlatform/) 
+* [Twitter](https://twitter.com/NoixionNXN) 
 * [Telegram](https://t.me/MillenniumCoinGroup)
-* [Medium](https://medium.com/@millenniumcoin)
-* [Friendster](https://friendster.io/MillenniumCoin)
-* [Reddit](https://www.reddit.com/r/MillenniumCoin/)
-* [Linkedin](https://www.linkedin.com/company/millennium-coin/about/)
+* [Medium](https://medium.com/noixion)
+* [Friendster](https://friendster.io/noixion)
+* [Reddit](https://www.reddit.com/r/Noixion/)
+* [Linkedin](https://www.linkedin.com/company/noixion/)
 * [YouTube](https://www.youtube.com/channel/UCuPxhKSKLuB61V45WBYtYBg)
-* [Facebook](https://www.facebook.com/CoinMillennium/)
-* [Instagram](https://www.instagram.com/coin_millennium/)
+* [Facebook](https://www.facebook.com/NoixionNXN/)
 
